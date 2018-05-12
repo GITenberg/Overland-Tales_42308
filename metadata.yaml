@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41626'
     url: http://www.gutenberg.org/2009/agents/41626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42308#Overland-Tales
 gutenberg_issued: '2013-03-11'
 gutenberg_type: Text
 identifiers:
