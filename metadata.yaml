@@ -1,0 +1,34 @@
+_repo: Overland-Tales_42308
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clifford, Josephine
+    birthdate: 1838
+    gutenberg_agent_id: '41626'
+    url: http://www.gutenberg.org/2009/agents/41626
+description: ''
+gutenberg_issued: '2013-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'American essays'
+- !lcsh 'Short stories, American'
+tableOfContents: La graciosa -- Juanita -- Hetty's heroism -- A woman's treachery
+  -- The gentleman from Siskiyou -- Something about my pets -- Poker-Jim -- The tragedy
+  at Mohawk Station -- Lone Linden -- Manuela -- The romance of Gila Bend -- A lady
+  in camp -- The golden lamb -- It occurred at Tucson -- A bit of "early California"
+  -- Her name was Sylvia -- Crossing the Arizona deserts -- Down among the dead letters
+  -- Marching with a command -- To Texas, and by the way -- My first experience in
+  New Mexico.
+title: Overland Tales
+url: http://www.gutenberg.org/ebooks/42308
